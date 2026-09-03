@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add an `html` tag and set the language to English.
-Reason: TypeError occurred: 'NoneType' object is not subscriptable
-Error : TypeError - 'NoneType' object is not subscriptable
-Timestamp: 2026-09-03 04:58:45.854887
+Reason: None
+Timestamp: 2026-09-03 21:18:23.590878
