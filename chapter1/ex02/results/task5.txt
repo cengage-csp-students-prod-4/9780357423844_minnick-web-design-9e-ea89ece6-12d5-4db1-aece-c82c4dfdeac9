@@ -1,19 +1,10 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the `body` element, nest a paragraph element that includes the following text: 'Wild Rescues Website Outline'
 
 Below the first paragraph element, add another paragraph element that includes the text, 'Completed by:' followed by your name. 
 
 Below the second paragraph, add two blank lines.
-Reason: Assertion failed: 'Wild Rescue Website Outline' != 'Wild Rescues Website Outline'
-- Wild Rescue Website Outline
-+ Wild Rescues Website Outline
-?            +
-
-Error : AssertionError - 'Wild Rescue Website Outline' != 'Wild Rescues Website Outline'
-- Wild Rescue Website Outline
-+ Wild Rescues Website Outline
-?            +
-
-Timestamp: 2026-09-04 20:50:34.943035
+Reason: None
+Timestamp: 2026-09-04 20:51:46.397108
