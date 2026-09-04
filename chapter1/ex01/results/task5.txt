@@ -1,9 +1,8 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the `body` element, nest a paragraph element that includes the following text: 'Proposed Website for Strike a Chord' 
 
 Below the first paragraph element, add another paragraph element that includes the text 'Presented by:'  followed by your name (firstname lastname).
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'text'
-Error : AttributeError - 'NoneType' object has no attribute 'text'
-Timestamp: 2026-09-04 06:33:55.358508
+Reason: None
+Timestamp: 2026-09-04 06:35:36.879075
