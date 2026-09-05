@@ -34,3 +34,20 @@ Project Timeline | Identify the project timeline | A 4 week time span structure 
 
 ## Wireframe
 Sketch the wireframe for the home page below:
+
+                        *School Logo*
+                        "Website Title"
+
+
+
+Layout of Club Logos
+Short Descriptions
+Links to dedicated pages
+
+
+
+Accessibility Settings (TTS, font adjustments, etc.)
+
+
+
+School & Admin Contact Info
