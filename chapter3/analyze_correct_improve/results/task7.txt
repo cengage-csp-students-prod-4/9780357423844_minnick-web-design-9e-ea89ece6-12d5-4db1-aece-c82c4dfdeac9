@@ -3,83 +3,82 @@ Status: PASSED!
 Check: 1
 Test: Link the text, W3C, to   https://www.w3.org/
 Reason: None
-Timestamp: 2026-09-12 22:48:06.560360
+Timestamp: 2026-09-12 22:50:14.738850
 
 Status: PASSED!
 Check: 10
 Test: Link the text, Image Compressor, to an online image compressor of your choice opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.561671
+Timestamp: 2026-09-12 22:50:14.740254
 
-Status: FAILED!
+Status: PASSED!
 Check: 11
 Test: Link the text, HTML Validator, to W3C’s HTML validator
-Reason: Assertion failed: Expected href attribute to be 'https://validator.w3.org/' but got https://www.w3.org/
-Error : AssertionError - Expected href attribute to be 'https://validator.w3.org/' but got https://www.w3.org/
-Timestamp: 2026-09-12 22:48:06.562747
+Reason: None
+Timestamp: 2026-09-12 22:50:14.741325
 
 Status: PASSED!
 Check: 12
 Test: Link the text, HTML Validator, to W3C’s HTML validator opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.563891
+Timestamp: 2026-09-12 22:50:14.742372
 
 Status: PASSED!
 Check: 13
 Test: Link the text, Emmet, to   https://emmet.io/
 Reason: None
-Timestamp: 2026-09-12 22:48:06.564907
+Timestamp: 2026-09-12 22:50:14.743468
 
 Status: PASSED!
 Check: 14
 Test: Link the text, Emmet, to   https://emmet.io/ opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.566056
+Timestamp: 2026-09-12 22:50:14.744601
 
 Status: PASSED!
 Check: 2
 Test: Link the text, W3C, to   https://www.w3.org/ opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.567088
+Timestamp: 2026-09-12 22:50:14.745595
 
 Status: PASSED!
 Check: 3
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/
 Reason: None
-Timestamp: 2026-09-12 22:48:06.568153
+Timestamp: 2026-09-12 22:50:14.746590
 
 Status: PASSED!
 Check: 4
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/ opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.569142
+Timestamp: 2026-09-12 22:50:14.747624
 
 Status: PASSED!
 Check: 5
 Test: Link the text, HTML, to   https://www.html.com/
 Reason: None
-Timestamp: 2026-09-12 22:48:06.570250
+Timestamp: 2026-09-12 22:50:14.748732
 
 Status: PASSED!
 Check: 6
 Test: Link the text, HTML, to   https://www.html.com/ opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.571236
+Timestamp: 2026-09-12 22:50:14.749736
 
 Status: PASSED!
 Check: 7
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/
 Reason: None
-Timestamp: 2026-09-12 22:48:06.572235
+Timestamp: 2026-09-12 22:50:14.750730
 
 Status: PASSED!
 Check: 8
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/ opens up in a new tab.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.573206
+Timestamp: 2026-09-12 22:50:14.751722
 
 Status: PASSED!
 Check: 9
 Test: Link the text, Image Compressor, to an online image compressor of your choice.
 Reason: None
-Timestamp: 2026-09-12 22:48:06.574295
+Timestamp: 2026-09-12 22:50:14.752815
