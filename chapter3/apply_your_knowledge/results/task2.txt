@@ -1,27 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Nested an `img` element within the header element below the heading element
-Reason: Assertion failed: Expected `src` attribute value to be 'images/web-design.jpg' but got 'localhost:35785/images.web-design.jpg'
-Error : AssertionError - Expected `src` attribute value to be 'images/web-design.jpg' but got 'localhost:35785/images.web-design.jpg'
-Timestamp: 2026-09-16 01:47:05.895149
+Reason: None
+Timestamp: 2026-09-16 01:49:57.895592
 
 Status: PASSED!
 Check: 2
 Test: Added an `alt` attribute with a value of **computer with the text web design**
 Reason: None
-Timestamp: 2026-09-16 01:47:05.929488
+Timestamp: 2026-09-16 01:49:57.910061
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Added a `height` attribute with a value of **326px**
-Reason: Assertion failed: Expected `height` attribute value to be '326px' but got '18px'
-Error : AssertionError - Expected `height` attribute value to be '326px' but got '18px'
-Timestamp: 2026-09-16 01:47:05.947207
+Reason: None
+Timestamp: 2026-09-16 01:49:57.930437
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Added a `width` attribute with a value of **450px**
-Reason: Assertion failed: Expected `width` attribute value to be '450px' but got '237px'
-Error : AssertionError - Expected `width` attribute value to be '450px' but got '237px'
-Timestamp: 2026-09-16 01:47:05.967193
+Reason: None
+Timestamp: 2026-09-16 01:49:57.949150
