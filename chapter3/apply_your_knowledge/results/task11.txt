@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Added an absolute link to the text, **W3Schools.com**, that links to 'https://www.w3schools.com/html/html5_semantic_elements.asp' in the last paragraph element
+Reason: Assertion failed: Expected the `href` attribute value to be 'https://www.w3schools.com/html/html5_semantic_elements.asp' but found https://www.w3schools.com
+Error : AssertionError - Expected the `href` attribute value to be 'https://www.w3schools.com/html/html5_semantic_elements.asp' but found https://www.w3schools.com
+Timestamp: 2026-09-17 01:51:41.282588
