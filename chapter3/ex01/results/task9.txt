@@ -1,294 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Below the `info` `div`, add a new `div` element with an `id` attribute of **piano** within lessons.html.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
+Reason: None
+Timestamp: 2026-09-19 06:09:47.909395
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Timestamp: 2026-09-19 06:08:18.021724
-
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The `div` element with an `id` attribute of 'piano' contains an `h3` element with the text 'Piano Lessons' in lessons.html.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano h3"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
+Reason: None
+Timestamp: 2026-09-19 06:09:47.978079
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano h3"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Timestamp: 2026-09-19 06:08:19.040336
-
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The `div` element with an `id` attribute of 'piano' contains an `img` element in lessons.html.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
+Reason: None
+Timestamp: 2026-09-19 06:09:47.985935
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Timestamp: 2026-09-19 06:08:20.053238
-
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: The 'img' element has the correct src, alt, height, and width attributes in lessons.html.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
+Reason: None
+Timestamp: 2026-09-19 06:09:48.032216
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano img"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Timestamp: 2026-09-19 06:08:21.062233
-
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: The `div` element with an `id` attribute of 'piano' contains a `p` element in lessons.html.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
+Reason: None
+Timestamp: 2026-09-19 06:09:48.039202
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Timestamp: 2026-09-19 06:08:22.072104
-
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: The `p` element contains the correct text in lessons.html.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div#piano p"}
-  (Session info: chrome=152.0.7977.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55f4c1b7a03a <unknown>
-#1 0x55f4c14e24c9 <unknown>
-#2 0x55f4c1538242 <unknown>
-#3 0x55f4c15384a1 <unknown>
-#4 0x55f4c1583394 <unknown>
-#5 0x55f4c15805ad <unknown>
-#6 0x55f4c152b83b <unknown>
-#7 0x55f4c152c621 <unknown>
-#8 0x55f4c1b3e5f0 <unknown>
-#9 0x55f4c1b3cc6a <unknown>
-#10 0x55f4c1b279f5 <unknown>
-#11 0x55f4c1b3d92a <unknown>
-#12 0x55f4c1b10d10 <unknown>
-#13 0x55f4c1b65158 <unknown>
-#14 0x55f4c1b652f5 <unknown>
-#15 0x55f4c1b78bc3 <unknown>
-#16 0x7f382ea9cb84 <unknown>
-#17 0x7f382eb29d6c <unknown>
-
-Timestamp: 2026-09-19 06:08:23.081836
+Reason: None
+Timestamp: 2026-09-19 06:09:48.053019
