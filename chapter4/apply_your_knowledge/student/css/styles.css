@@ -84,6 +84,6 @@ main h3 {
 .external {
     color: #1d396d;
     text-decoration: none;
-    font-width: bold;
+    font-weight: bold; 
     font-style: italic;
 }
