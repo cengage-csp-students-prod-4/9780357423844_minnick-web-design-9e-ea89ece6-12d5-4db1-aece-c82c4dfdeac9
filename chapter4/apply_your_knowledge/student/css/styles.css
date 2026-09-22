@@ -3,3 +3,9 @@ Author: Hunter Cabreira
 Date: 09/21/2026
 File Name: styles.css
 */
+/*CSS Reset*/
+body, header, nav, main, footer, img, h1, h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
