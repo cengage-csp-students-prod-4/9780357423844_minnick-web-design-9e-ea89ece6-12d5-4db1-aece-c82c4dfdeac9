@@ -48,9 +48,10 @@ nav li {
     font-weight: bold;
 }
 
+
 nav li a {
     display: block;
     color: #e3eaf8;
-    padding: o.5em 2em;
+    padding: 0.5em 2em;
     text-decoration: none;
 }
