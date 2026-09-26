@@ -3,3 +3,12 @@ Author: Student Hunter Cabreira
 File Name: styles.css
 Date: 09/25/2026
 */
+
+/*
+CSS Reset
+*/
+body, header, nav, main, footer, img, h1, h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
