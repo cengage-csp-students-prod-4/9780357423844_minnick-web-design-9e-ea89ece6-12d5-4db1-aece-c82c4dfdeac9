@@ -24,9 +24,11 @@ File Name: styles.css
     font-family: Geneva, Arial, sans-serif;
     overflow: auto;
     color: #47476b;
+main a {
     text-decoration: none;
     font-weight: bold;
     font-style: italic;
+}
 } header h1 {
     font-size: 3em;
     font-family: Georgia, Times, serif;
