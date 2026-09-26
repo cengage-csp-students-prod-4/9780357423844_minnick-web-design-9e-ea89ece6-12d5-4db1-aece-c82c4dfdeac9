@@ -3,3 +3,17 @@ Author: Hunter Cabreira
 File Name: styles.css
 Date: 09/25/2026
 */
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* Style rule for images */
+img {
+	max-width: 100%;
+	display: block;
+}
+
