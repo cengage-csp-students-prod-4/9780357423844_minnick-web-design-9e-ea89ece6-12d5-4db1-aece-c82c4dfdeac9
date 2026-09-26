@@ -23,12 +23,6 @@ File Name: styles.css
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
     overflow: auto;
-    color: #47476b;
-main a {
-    text-decoration: none;
-    font-weight: bold;
-    font-style: italic;
-}
 } header h1 {
     font-size: 3em;
     font-family: Georgia, Times, serif;
@@ -51,4 +45,10 @@ main p {
 main h3 {
     padding-top: 2%;
     font-size: 2em;
+}
+main a {
+    color: #47476b;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
 }
