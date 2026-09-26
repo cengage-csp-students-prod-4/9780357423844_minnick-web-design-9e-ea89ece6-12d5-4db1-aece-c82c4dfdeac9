@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Link the index.html file to the style sheet located within the /css folder
-Reason: Assertion failed: Link tag not found
-Error : AssertionError - Link tag not found
-Timestamp: 2026-09-26 07:02:20.641137
+Reason: None
+Timestamp: 2026-09-26 07:03:15.757164
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Link tag has a rel attribute set to stylesheet
-Reason: Assertion failed: Link tag not found
-Error : AssertionError - Link tag not found
-Timestamp: 2026-09-26 07:02:20.642708
+Reason: None
+Timestamp: 2026-09-26 07:03:15.758640
