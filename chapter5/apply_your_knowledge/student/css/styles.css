@@ -72,6 +72,10 @@ main {
     font-size: 1.5em;
 }
 
+.corner {
+    border-radius: 12px;
+}
+
 #image {
     margin-bottom: 1%;
 }
