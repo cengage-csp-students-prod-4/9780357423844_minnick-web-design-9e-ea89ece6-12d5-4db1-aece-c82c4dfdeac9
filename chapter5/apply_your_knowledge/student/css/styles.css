@@ -15,8 +15,6 @@ body, header, nav, main, footer, h1, div, img, ul {
 body {
 	background-color: #e4f1f6;
 }
-
-/*Style rule for image selector*/
 img {
     max-width: 100%;
     display: block;
