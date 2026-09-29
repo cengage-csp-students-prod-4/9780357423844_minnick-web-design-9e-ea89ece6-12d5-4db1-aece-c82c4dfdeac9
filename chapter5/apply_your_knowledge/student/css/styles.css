@@ -16,6 +16,12 @@ body {
 	background-color: #e4f1f6;
 }
 
+/*Style rule for image selector*/
+img {
+    max-width: 100%;
+    display: block;
+}
+
 /* Style rule for header */
 header {
 	font-family: Verdana, Arial, sans-serif;
@@ -64,10 +70,4 @@ footer {
 	font-size: .70em;
 	text-align: center;
 	margin-top: 2em;
-}
-
-/*Style rule for image selector*/
-img {
-    max-width: 100%;
-    display: block;
 }
