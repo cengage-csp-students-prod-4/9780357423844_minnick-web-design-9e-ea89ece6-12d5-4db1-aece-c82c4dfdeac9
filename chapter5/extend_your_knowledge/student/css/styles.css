@@ -1,7 +1,7 @@
 /*  
-Student Name:
-File name: 
-Date: 
+Student Name: Hunter Cabreira
+File name: styles.css
+Date: 10/01/2026
 */
 body {
     background-color: #dde3fd;
@@ -22,7 +22,11 @@ body {
 }
 
 /* sticky */
-
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
 
 /* relative */
 
