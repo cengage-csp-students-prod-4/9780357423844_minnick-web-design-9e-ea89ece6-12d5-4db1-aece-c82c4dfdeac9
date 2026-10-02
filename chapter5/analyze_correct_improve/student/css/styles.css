@@ -21,6 +21,15 @@ img {
     display: block;
 }
 
+/*Style rules for navigation area*/
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
 /* Style rules for header content */
 header h1 {
     text-align: center;
