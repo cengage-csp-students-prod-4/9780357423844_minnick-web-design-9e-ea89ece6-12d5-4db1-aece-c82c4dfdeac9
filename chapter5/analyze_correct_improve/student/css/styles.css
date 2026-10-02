@@ -21,14 +21,7 @@ img {
     display: block;
 }
 
-/*Style rules for navigation area*/
-nav ul {
-    list-style-type: none;
-}
-
-nav li {
-    display: inline-block;
-}
+/*Style rules for mobile viewports*/
 
 /* Style rules for header content */
 header h1 {
@@ -47,6 +40,7 @@ nav {
 
 nav ul {
     text-align: center;
+    list-style-type: none;
 }
 
 nav li {
@@ -54,6 +48,7 @@ nav li {
     font-family: Geneva, Arial, sans-serif;
     font-weight: bold;
     padding: 3%;
+    display: inline-block;
 }
 
 nav li a {
