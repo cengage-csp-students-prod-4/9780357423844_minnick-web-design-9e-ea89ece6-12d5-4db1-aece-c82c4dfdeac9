@@ -72,6 +72,18 @@ main p {
     font-size: 1.25em;
 }
 
+.btn {
+    background-color: #375f1b;
+    padding: 2%;
+    top: 2%;
+    bottom: 2%;
+    left: auto;
+    right: auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+}
+
 /* Style rules for footer content */
 footer {
     text-align: center;
