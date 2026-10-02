@@ -22,6 +22,10 @@ img {
 }
 
 /*Style rules for mobile viewports*/
+/*Hide the tablet-desktop class on specific screens and viewports*/
+.tablet-desktop {
+    display: none;
+}
 
 /* Style rules for header content */
 header h1 {
