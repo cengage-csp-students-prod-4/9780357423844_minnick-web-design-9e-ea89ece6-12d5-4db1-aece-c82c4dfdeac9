@@ -75,13 +75,16 @@ main p {
 .btn {
     background-color: #375f1b;
     padding: 2%;
-    top: 2%;
-    bottom: 2%;
-    left: auto;
-    right: auto;
+    margin: 2% auto;
     width: 80%;
     text-align: center;
     border-radius: 5px;
+}
+
+.btn a {
+    color: #ebf7e3;
+    text-decoration: none;
+    font-size: ;
 }
 
 /* Style rules for footer content */
