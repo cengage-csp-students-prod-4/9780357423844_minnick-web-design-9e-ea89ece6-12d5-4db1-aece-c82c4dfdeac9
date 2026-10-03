@@ -101,7 +101,22 @@ main p {
     text-align: center;
 }
 
-#contact a {
+.tel-link {
+    background-color: #373684;
+		padding: 2%;
+		margin: 0 auto;
+		width: 80%;
+		text-align: center;
+		border-radius: 5px;
+} 
+.tel-link a {
+    color: #fff;
+		text-decoration: none;
+		font-size: 1.5em;
+		display: block;
+}
+
+#contact .email-link {
     color: #4645a8;
     text-decoration: none;
     font-weight: bold;
