@@ -35,9 +35,11 @@ img {
 }
 
 /*Style rules for header area*/
-.mobile h1,  .mobile h3 {
-    padding: 2%;
-    text-align: center;
+.mobile {
+    h1, h3 {
+        padding: 2%;
+        text-align: center;
+    }
 }
 
 /*Style rules for navigation area*/
