@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Navigate to your *rescue* folder and open the *index.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Error : AssertionError - The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Timestamp: 2026-10-03 22:59:52.993264
+Reason: None
+Timestamp: 2026-10-03 23:02:06.606013
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Navigate to your *rescue* folder and open the *about.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Error : AssertionError - The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Timestamp: 2026-10-03 22:59:52.996156
+Reason: None
+Timestamp: 2026-10-03 23:02:06.608938
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Navigate to your *rescue* folder and open the *contact.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Error : AssertionError - The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Timestamp: 2026-10-03 22:59:52.998166
+Reason: None
+Timestamp: 2026-10-03 23:02:06.611015
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Navigate to your *rescue* folder and open the *template.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: Assertion failed: The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Error : AssertionError - The `meta` element with the `name` attribute of `viewport` is missing from the `head` element.
-Timestamp: 2026-10-03 22:59:53.000082
+Reason: None
+Timestamp: 2026-10-03 23:02:06.612706
