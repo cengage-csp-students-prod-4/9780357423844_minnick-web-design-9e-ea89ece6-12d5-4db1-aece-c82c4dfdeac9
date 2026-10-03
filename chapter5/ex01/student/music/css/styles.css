@@ -18,7 +18,7 @@ img {
 }
 
 /*Style rules for mobile viewport*/
-/*Hide tab-desk*/
+/*Hide tab-desk class*/
 .tab-desk {
     display: none;
 }
@@ -26,7 +26,7 @@ img {
 /* Style rules for header content */
 header {
 	text-align: center;
-	font-size: 3em;
+	font-size: 1.5em;
 	color: #373684;
 }
 
