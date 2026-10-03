@@ -79,8 +79,6 @@ main p {
 
 /* Style rules for lessons content */
 #piano, #guitar, #violin {
-    width: 29%;
-    float: left;
     margin: 0 2%;
 }
  
@@ -88,6 +86,10 @@ main p {
    clear: left;
    background-color: #c0caf7;
    padding: 1% 2%;
+}
+
+#info ul {
+	margin-left: 10%;
 }
 
 /* Style rules for contact content */
