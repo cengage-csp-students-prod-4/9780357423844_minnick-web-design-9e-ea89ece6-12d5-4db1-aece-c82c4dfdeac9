@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: In the *contact.html* file, remove the text, **Phone Number:**, from the first paragraph element within the `main` `div` element. Wrap the phone number within an anchor element that links to the phone number. Add a class attribute with the value **tel-link** to the parent paragraph element that contains the phone number link.
 Reason: None
-Timestamp: 2026-10-03 04:53:30.030836
+Timestamp: 2026-10-03 04:54:57.907095
 
 Status: PASSED!
 Check: 2
 Test: Wrap the phone number within an anchor element that links to the phone number.
 Reason: None
-Timestamp: 2026-10-03 04:53:30.032865
+Timestamp: 2026-10-03 04:54:57.909177
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a class attribute with the value **email-link** to the anchor element that links to the email address within the `main` element.
-Reason: Assertion failed: The anchor element that links to the email address does not have a class attribute with a value of `email-link`.
-Error : AssertionError - The anchor element that links to the email address does not have a class attribute with a value of `email-link`.
-Timestamp: 2026-10-03 04:53:30.034315
+Reason: None
+Timestamp: 2026-10-03 04:54:57.911168
