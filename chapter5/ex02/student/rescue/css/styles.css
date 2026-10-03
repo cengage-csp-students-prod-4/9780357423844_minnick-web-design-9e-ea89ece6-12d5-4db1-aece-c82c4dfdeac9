@@ -35,7 +35,7 @@ img {
 }
 
 /*Style rules for header area*/
-h1.mobile, h3.mobile {
+.mobile h1,  .mobile h3 {
     padding: 2%;
     text-align: center;
 }
