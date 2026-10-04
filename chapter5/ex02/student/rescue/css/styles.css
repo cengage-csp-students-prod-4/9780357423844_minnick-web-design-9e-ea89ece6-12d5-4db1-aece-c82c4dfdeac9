@@ -40,6 +40,18 @@ img {
     text-align: center;
 }
 
+.mobile h1 {
+    font-family: 'Emblema One', display;
+}
+
+.mobile h3 {
+    font-family: 'Lora', serif;
+}
+
+main {
+    font-family: 'Lora', serif;
+}
+
 
 /*Style rules for navigation area*/
 nav {
