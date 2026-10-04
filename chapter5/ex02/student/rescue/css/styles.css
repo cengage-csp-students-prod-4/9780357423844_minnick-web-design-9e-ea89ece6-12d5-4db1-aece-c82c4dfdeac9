@@ -48,11 +48,6 @@ img {
     font-family: 'Lora', serif;
 }
 
-main {
-    font-family: 'Lora', serif;
-}
-
-
 /*Style rules for navigation area*/
 nav {
     background-color: #2a1f14;
@@ -84,7 +79,8 @@ nav li a {
 /*Style rules for main content*/
 main {
     padding: 2%;
-    font-family: Verdana, Arial, sans-serif;
+    font-family: 'Lora', serif;
+    
 }
 
 main p {
