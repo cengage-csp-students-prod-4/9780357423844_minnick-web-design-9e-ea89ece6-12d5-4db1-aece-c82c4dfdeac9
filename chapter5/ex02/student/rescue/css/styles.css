@@ -35,18 +35,11 @@ img {
 
 
 /*Style rules for header area*/
-.mobile.h1, .mobile.h3 {
+.mobile h1, .mobile h3 {
     padding: 2%;
     text-align: center;
 }
 
-.mobile h1 {
-    font-family: 'Emblema One', cursive;
-}
-
-.mobile h3 {
-    font-family: 'Lora', serif;
-}
 
 /*Style rules for navigation area*/
 nav {
@@ -79,7 +72,7 @@ nav li a {
 /*Style rules for main content*/
 main {
     padding: 2%;
-    font-family: Verdana, Arial, 'Lora' sans-serif;
+    font-family: Verdana, Arial, sans-serif;
 }
 
 main p {
