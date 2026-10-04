@@ -3,11 +3,11 @@ Status: PASSED!
 Check: 1
 Test: remove the text, **Office:**, from the first paragraph element within the `main` `div` element.
 Reason: None
-Timestamp: 2026-10-04 08:23:48.143343
+Timestamp: 2026-10-04 08:26:15.872800
 
 Status: FAILED!
 Check: 2
 Test: Wrap the phone number within an anchor element that links to the phone number.
-Reason: Assertion failed: The paragraph element with the class `tel-link round` is missing from the *contact.html* file.
-Error : AssertionError - The paragraph element with the class `tel-link round` is missing from the *contact.html* file.
-Timestamp: 2026-10-04 08:23:48.144865
+Reason: Assertion failed: The `href` attribute of the anchor element is not set to `tel:8145558989`.
+Error : AssertionError - The `href` attribute of the anchor element is not set to `tel:8145558989`.
+Timestamp: 2026-10-04 08:26:15.874863
