@@ -28,10 +28,10 @@ img {
 /*Style rules to show mobile class and hide tab-desk class*/
 .mobile {
     display: block;
-    h1, h3 {
+.mobile h1, .mobile h3 {
     padding: 2%;
     text-align: center;
-    }
+}
 }
 
 .tab-desk {
