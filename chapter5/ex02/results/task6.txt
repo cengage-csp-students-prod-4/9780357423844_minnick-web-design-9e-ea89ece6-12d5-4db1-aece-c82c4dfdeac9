@@ -3,41 +3,40 @@ Status: PASSED!
 Check: 1
 Test: Add the link to the google fonts in the head element of the index.html file.
 Reason: None
-Timestamp: 2026-10-04 06:38:05.796107
+Timestamp: 2026-10-04 06:40:16.567424
 
 Status: PASSED!
 Check: 2
 Test: Add the link to the google fonts in the head element of the about.html file.
 Reason: None
-Timestamp: 2026-10-04 06:38:05.799592
+Timestamp: 2026-10-04 06:40:16.570471
 
 Status: PASSED!
 Check: 3
 Test: Add the link to the google fonts in the head element of the contact.html file.
 Reason: None
-Timestamp: 2026-10-04 06:38:05.802853
+Timestamp: 2026-10-04 06:40:16.572947
 
 Status: PASSED!
 Check: 4
 Test: Add the link to the google fonts in the head element of the template.html file.
 Reason: None
-Timestamp: 2026-10-04 06:38:05.805099
+Timestamp: 2026-10-04 06:40:16.574490
 
 Status: PASSED!
 Check: 5
 Test: Add the style rule for the h1 selector within the mobile class in the styles.css file.
 Reason: None
-Timestamp: 2026-10-04 06:38:05.831409
+Timestamp: 2026-10-04 06:40:16.621487
 
 Status: PASSED!
 Check: 6
 Test: Add the style rule for the h3 selector within the mobile class in the styles.css file.
 Reason: None
-Timestamp: 2026-10-04 06:38:05.846942
+Timestamp: 2026-10-04 06:40:16.639423
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: Add the style rule for the main selector in the styles.css file.
-Reason: Assertion failed: The `main` selector does not have the `Lora` font-family.
-Error : AssertionError - The `main` selector does not have the `Lora` font-family.
-Timestamp: 2026-10-04 06:38:05.854974
+Reason: None
+Timestamp: 2026-10-04 06:40:16.648945
