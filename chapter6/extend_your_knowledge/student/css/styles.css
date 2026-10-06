@@ -64,11 +64,11 @@ main {
 }
 
 .gradient7 {
-    background: linear-gradient(#0000ff, #fff, #ff0000);
+    background: radial-gradient(#0000ff, #fff, #ff0000);
 }
 
 .gradient8 {
-    
+     background: repeating-radial-gradient(#0000ff, #fff, #ff0000 15%);
 }
 
 /* Style rule for footer */
