@@ -63,5 +63,9 @@ footer {
     article {
         width: 27%;
         height: 140px;
+        background-color: #ffe5dc;
+    }
+    article:hover {
+        background-color: #a22c02;
     }
 }
