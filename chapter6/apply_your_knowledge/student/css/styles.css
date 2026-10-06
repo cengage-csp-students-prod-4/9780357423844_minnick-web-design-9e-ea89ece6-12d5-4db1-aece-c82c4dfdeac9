@@ -46,6 +46,7 @@ footer {
     color: #341509;
 }
 
+
 /* Media Query for Tablet Viewport */
 @media screen, print and (min-width = 481px) {
     article {
