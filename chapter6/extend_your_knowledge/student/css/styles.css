@@ -55,6 +55,10 @@ main {
     background: linear-gradient(#e6e6ff, #70dbdb, #ffffcc, #cc6699);
 }
 
+.gradient5 {
+ background: repeating-linear-gradient(#df80ff 10%, #ccffff 20%);
+}
+
 /* Style rule for footer */
 footer {
 	font-size: .90em;
