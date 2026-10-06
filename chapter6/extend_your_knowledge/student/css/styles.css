@@ -47,6 +47,10 @@ main {
     background: linear-gradient(to left, #d4f7ec, #448d76 90%);
 }
 
+.gradient3 {
+    background: linear-gradient(to top left, #efddfd, #36065b);
+}
+
 /* Style rule for footer */
 footer {
 	font-size: .90em;
