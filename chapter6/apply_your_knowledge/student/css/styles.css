@@ -47,7 +47,7 @@ footer {
 }
 
 /* Media Query for Tablet Viewport */
-@media only screen and (min-width: 481px), only print and (min-width: 481px) {
+@media screen and print and (min-width: 481px) {
     article {
         width: 43%;
         float: left;
