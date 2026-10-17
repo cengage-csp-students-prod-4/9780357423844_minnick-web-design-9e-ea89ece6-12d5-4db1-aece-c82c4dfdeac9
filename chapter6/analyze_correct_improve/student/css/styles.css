@@ -99,7 +99,7 @@ footer {
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 769px), print {
 
-    /*Style rules for header element displayed in desktop viewport*/
+    /*Style rule for header element displayed in desktop viewport*/
     header {
         width: 25%;
         float: left;
