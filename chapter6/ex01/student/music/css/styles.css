@@ -155,4 +155,15 @@ footer a {
 	span.tab-desk {
     	display: inline;
 	}
-  }
+
+	/* Tablet Viewport: Style rules for nav area */
+	na li {
+		border-top: none;
+		display: inline-block;
+		font-size: 1.5em;
+		border-right: 1px solid #e5e9fc;
+	}
+
+	nav li:last-child {
+		border-right: none;
+	}
