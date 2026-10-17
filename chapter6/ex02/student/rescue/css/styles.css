@@ -78,17 +78,6 @@ nav li {
     border-top: 0.5px solid #f6eee4;
 }
 
-nav li {
-    border-top: none;
-    display: inline-block;
-    font-size: 1.25em;
-}
-
-nav li a {
-    padding: 0.5em;
-}
-
-
 nav li a {
     display: block;
     color: #f6eee4;
@@ -194,4 +183,18 @@ footer a {
     }
 
     /* Tablet Viewport: Style rules for nav area */
+    nav li {
+    border-top: none;
+    display: inline-block;
+    font-size: 1.25em;
+    }
+
+    nav li a {
+        padding: 0.5em;
+    }
 }
+
+    /* Media Query for Desktop Viewport */
+    @media screen and (min-width: 1000px), and print {
+        
+    }
