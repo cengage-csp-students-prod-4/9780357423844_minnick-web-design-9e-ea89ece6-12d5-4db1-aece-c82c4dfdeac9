@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: add a comment with the text, /* Media Query for Large Desktop Viewports */
 Reason: None
-Timestamp: 2026-10-17 04:55:06.554590
+Timestamp: 2026-10-17 04:59:53.232383
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: add a media query that targets a screen with a minimum width of **1921px**
-Reason: Assertion failed: The media query was not found in styles.css (@media screen and (min-width: 1921px), print {)
-Error : AssertionError - The media query was not found in styles.css (@media screen and (min-width: 1921px), print {)
-Timestamp: 2026-10-17 04:55:06.554802
+Reason: None
+Timestamp: 2026-10-17 04:59:53.232633
 
 Status: PASSED!
 Check: 3
 Test: Style rule for the `body` element that sets the background to a `linear-gradient` with the `color` values **#f6eee4** and **#78593a**
 Reason: None
-Timestamp: 2026-10-17 04:55:06.613176
+Timestamp: 2026-10-17 04:59:53.343737
 
 Status: PASSED!
 Check: 4
 Test: Style rule for the `#wrapper` selector that sets the `width` to **1920px**,
 Reason: None
-Timestamp: 2026-10-17 04:55:06.623426
+Timestamp: 2026-10-17 04:59:53.355227
 
 Status: PASSED!
 Check: 5
 Test: Style rule for the `#wrapper` selector that sets the top and bottom margin to **0**, and left and right margins to **auto**
 Reason: None
-Timestamp: 2026-10-17 04:55:06.645726
+Timestamp: 2026-10-17 04:59:53.388258
 
 Status: PASSED!
 Check: 6
 Test: Style rule for the `main` selector that sets the `background-color` to  **#f6eee4**
 Reason: None
-Timestamp: 2026-10-17 04:55:06.669339
+Timestamp: 2026-10-17 04:59:53.414542
