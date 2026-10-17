@@ -209,4 +209,8 @@ footer a {
             color: #2a1f14;
             background-color: #f6eee4;
         }
+
+        #info ul {
+            margin-left: 5%;
+        }
     }
