@@ -78,6 +78,16 @@ nav li {
     border-top: 0.5px solid #f6eee4;
 }
 
+nav li {
+    border-top: none;
+    display: inline-block;
+    font-size: 1.25em;
+}
+
+nav li a {
+    padding: 0.5em;
+}
+
 
 nav li a {
     display: block;
