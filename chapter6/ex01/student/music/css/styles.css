@@ -23,10 +23,6 @@ img {
     display: none;
 }
 
-.mobile {
-	display: none;
-}
-
 /* Style rules for header content */
 header {
 	text-align: center;
@@ -146,18 +142,18 @@ footer a {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print {
-	/* Tablet Viewport: Show tab-desk class, hide mobile class */  
-	.tab-desk {
-    	display: block;
-	} 
-	.mobile {
-    	display: none;  
-	} 
+/* Tablet Viewport: Show tab-desk class, hide mobile class */  
+.tab-desk {
+    display: block;
+} 
+.mobile {
+    display: none;  
+} 
 
-	/* Tablet Viewport: Style rule for header content */     
-	span.tab-desk {
-    	display: inline;
-	}
+/* Tablet Viewport: Style rule for header content */     
+span.tab-desk {
+    display: inline;
+}
 
 	/* Tablet Viewport: Style rules for nav area */
 	na li {
