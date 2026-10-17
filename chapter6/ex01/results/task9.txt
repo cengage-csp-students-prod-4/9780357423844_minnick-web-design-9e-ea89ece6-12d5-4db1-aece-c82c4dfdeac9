@@ -3,30 +3,30 @@ Status: PASSED!
 Check: 1
 Test: The comment was to the styles.css file.
 Reason: None
-Timestamp: 2026-10-17 02:31:28.827382
+Timestamp: 2026-10-17 02:45:49.713120
 
 Status: FAILED!
 Check: 2
 Test: add a style rule for the `nav li a` selector that sets the `padding` to **0.5em** on the top and bottom
 Reason: Assertion failed: The `padding-top` value of `nav li a` was not `0.5em`.
 Error : AssertionError - The `padding-top` value of `nav li a` was not `0.5em`.
-Timestamp: 2026-10-17 02:31:28.918449
+Timestamp: 2026-10-17 02:45:49.723616
 
 Status: FAILED!
 Check: 3
 Test: add a style rule for the `nav li a` selector that sets the `padding` to **1.5em** on the left and right.
 Reason: Assertion failed: The `padding-left` value of `nav li a` was not `1.5em`.
 Error : AssertionError - The `padding-left` value of `nav li a` was not `1.5em`.
-Timestamp: 2026-10-17 02:31:28.928857
+Timestamp: 2026-10-17 02:45:49.731069
 
 Status: PASSED!
 Check: 4
 Test: add a style rule for the `nav li a` selector that uses the `hover` `pseudo-class` and sets the `color` to **#373684**
 Reason: None
-Timestamp: 2026-10-17 02:31:29.225989
+Timestamp: 2026-10-17 02:45:50.016171
 
 Status: PASSED!
 Check: 5
 Test: add a style rule for the `nav li a` selector that uses the `hover` `pseudo-class` and sets the `background-color` to **#e5e9fc**.
 Reason: None
-Timestamp: 2026-10-17 02:31:29.493460
+Timestamp: 2026-10-17 02:45:50.282137
