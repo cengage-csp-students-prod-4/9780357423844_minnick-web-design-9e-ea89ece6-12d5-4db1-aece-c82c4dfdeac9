@@ -3,7 +3,7 @@ Status: PASSED!
 Check: 1
 Test: The tab-desk class was set to display block within the tablet media query.
 Reason: None
-Timestamp: 2026-10-17 02:52:48.257708
+Timestamp: 2026-10-17 02:54:24.146860
 
 Status: FAILED!
 Check: 2
@@ -11,51 +11,51 @@ Test: The `display` value of `.mobile` was set to `none` within the tablet media
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
   (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56433d0f31da <unknown>
-#1 0x56433ca125c9 <unknown>
-#2 0x56433ca6960f <unknown>
-#3 0x56433ca69891 <unknown>
-#4 0x56433cabab04 <unknown>
-#5 0x56433cab7d6e <unknown>
-#6 0x56433ca5c2f8 <unknown>
-#7 0x56433ca5d0d1 <unknown>
-#8 0x56433d0b5cec <unknown>
-#9 0x56433d0b4505 <unknown>
-#10 0x56433d09f3b5 <unknown>
-#11 0x56433d0b515a <unknown>
-#12 0x56433d087939 <unknown>
-#13 0x56433d0dd898 <unknown>
-#14 0x56433d0dda35 <unknown>
-#15 0x56433d0f1b63 <unknown>
-#16 0x7f1985a9cb84 <unknown>
-#17 0x7f1985b29ecc <unknown>
+#0 0x56236b2411da <unknown>
+#1 0x56236ab605c9 <unknown>
+#2 0x56236abb760f <unknown>
+#3 0x56236abb7891 <unknown>
+#4 0x56236ac08b04 <unknown>
+#5 0x56236ac05d6e <unknown>
+#6 0x56236abaa2f8 <unknown>
+#7 0x56236abab0d1 <unknown>
+#8 0x56236b203cec <unknown>
+#9 0x56236b202505 <unknown>
+#10 0x56236b1ed3b5 <unknown>
+#11 0x56236b20315a <unknown>
+#12 0x56236b1d5939 <unknown>
+#13 0x56236b22b898 <unknown>
+#14 0x56236b22ba35 <unknown>
+#15 0x56236b23fb63 <unknown>
+#16 0x7f0d5dc9cb84 <unknown>
+#17 0x7f0d5dd29ecc <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.mobile"}
   (Session info: chrome=155.0.8059.39); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56433d0f31da <unknown>
-#1 0x56433ca125c9 <unknown>
-#2 0x56433ca6960f <unknown>
-#3 0x56433ca69891 <unknown>
-#4 0x56433cabab04 <unknown>
-#5 0x56433cab7d6e <unknown>
-#6 0x56433ca5c2f8 <unknown>
-#7 0x56433ca5d0d1 <unknown>
-#8 0x56433d0b5cec <unknown>
-#9 0x56433d0b4505 <unknown>
-#10 0x56433d09f3b5 <unknown>
-#11 0x56433d0b515a <unknown>
-#12 0x56433d087939 <unknown>
-#13 0x56433d0dd898 <unknown>
-#14 0x56433d0dda35 <unknown>
-#15 0x56433d0f1b63 <unknown>
-#16 0x7f1985a9cb84 <unknown>
-#17 0x7f1985b29ecc <unknown>
+#0 0x56236b2411da <unknown>
+#1 0x56236ab605c9 <unknown>
+#2 0x56236abb760f <unknown>
+#3 0x56236abb7891 <unknown>
+#4 0x56236ac08b04 <unknown>
+#5 0x56236ac05d6e <unknown>
+#6 0x56236abaa2f8 <unknown>
+#7 0x56236abab0d1 <unknown>
+#8 0x56236b203cec <unknown>
+#9 0x56236b202505 <unknown>
+#10 0x56236b1ed3b5 <unknown>
+#11 0x56236b20315a <unknown>
+#12 0x56236b1d5939 <unknown>
+#13 0x56236b22b898 <unknown>
+#14 0x56236b22ba35 <unknown>
+#15 0x56236b23fb63 <unknown>
+#16 0x7f0d5dc9cb84 <unknown>
+#17 0x7f0d5dd29ecc <unknown>
 
-Timestamp: 2026-10-17 02:52:49.305990
+Timestamp: 2026-10-17 02:54:25.202700
 
 Status: PASSED!
 Check: 3
 Test: The span.tab-desk class was set to display inline within the tablet media query.
 Reason: None
-Timestamp: 2026-10-17 02:52:49.347725
+Timestamp: 2026-10-17 02:54:25.252453
