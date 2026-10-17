@@ -178,3 +178,8 @@ footer a {
 		height: 450px;
 	}
 }
+
+/* Media Query for Desktop Viewport */
+@media screen and (min-width: 769px), print {
+	
+}
