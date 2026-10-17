@@ -167,4 +167,8 @@ footer a {
 	nav li:last-child {
 		border-right: none;
 	}
+
+	nav li a {
+		padding: 0.25em 0.5em;
+	}
 }
