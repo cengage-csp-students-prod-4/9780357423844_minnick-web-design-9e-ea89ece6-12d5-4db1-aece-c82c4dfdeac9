@@ -4,11 +4,11 @@ Check: 1
 Test: In the tablet media query, create a new style rule for the `grid` class selector that sets the `display` to a **grid**, sets grid template columns to two columns, and sets a `grid-gap` of **20px**.
 Reason: Assertion failed: Expected grid-template-columns to be auto auto
 Error : AssertionError - Expected grid-template-columns to be auto auto
-Timestamp: 2026-10-23 06:11:08.440818
+Timestamp: 2026-10-23 06:12:38.281978
 
 Status: FAILED!
 Check: 2
 Test: In the tablet media query, create a new style rule for the `aside` element that creates one grid column that spans two columns
 Reason: Assertion failed: Expected grid-column to equal '1 / span 2' columns, but got span 2
 Error : AssertionError - Expected grid-column to equal '1 / span 2' columns, but got span 2
-Timestamp: 2026-10-23 06:11:08.452097
+Timestamp: 2026-10-23 06:12:38.293915
