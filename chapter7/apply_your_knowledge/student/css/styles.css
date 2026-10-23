@@ -17,7 +17,28 @@ body {
 }
 
 /* Style rules for mobile viewport */
+/*Style rule for section*/
+section {
+	background-color: #183440;
+	color: #fff;
+	margin-top: 4%;
+	padding: 3%;
+}
 
+/*Style rule for article*/
+article {
+	margin: 1%;
+	padding: 2%;
+}
+
+/*Style rule for aside*/
+aside {
+	background-color: rgba(24, 52, 64, 0.3);
+	padding: 2%;
+	margin-top: 1%;
+	color: #183440;
+	box-shadow: 4px 4px 10px #183440;
+}
 
 /* Style rule for header */
 header {
