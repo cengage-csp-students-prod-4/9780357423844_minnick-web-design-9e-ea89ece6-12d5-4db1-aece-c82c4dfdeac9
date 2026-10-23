@@ -90,7 +90,7 @@ footer {
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1024px), print {
 	.grid {
-		grid-template-columns: repeat(4, auto);
+		grid-template-columns: 4 / auto;
 	}
 
 	aside {
