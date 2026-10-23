@@ -89,6 +89,12 @@ footer {
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1024px), print {
+	.grid {
+		grid-template-columns: auto auto;
+	}
 
+	aside {
+		grid-column: 1 / span 4;
+	}
     
 }
