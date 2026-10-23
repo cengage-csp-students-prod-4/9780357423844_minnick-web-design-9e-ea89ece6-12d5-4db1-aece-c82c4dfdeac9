@@ -17,7 +17,7 @@ body {
 }
 
 /* Style rules for mobile viewport */
-/*Style rule for section element*/
+/*Style rule for section*/
 section {
 	background-color: #183440;
 	color: #fff;
@@ -25,13 +25,13 @@ section {
 	padding: 3%;
 }
 
-/*Style rule for article element*/
+/*Style rule for article*/
 article {
 	margin: 1%;
 	padding: 2%;
 }
 
-/*Style rule for aside element*/
+/*Style rule for aside*/
 aside {
 	background-color: rgba(24, 52, 64, 0.3);
 	padding: 2%;
