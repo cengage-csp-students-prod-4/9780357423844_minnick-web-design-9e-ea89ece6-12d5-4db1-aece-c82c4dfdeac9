@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Author: Hunter Cabreira
+Date: 10/25/2026
+File Name: styles.css
 */
 
 /* CSS Reset */
@@ -38,4 +38,11 @@ aside {
 footer {
 	font-size: .70em;
 	text-align: center;
+}
+
+/*Style rules for columns*/
+.columns {
+	column-count: 3;
+	column-width: auto;
+	column-height: auto;
 }
