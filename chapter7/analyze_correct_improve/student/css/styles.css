@@ -92,4 +92,9 @@ footer {
         grid-gap: 20px;
     }
     
+    .aside {
+        grid-column: span 3;
+    }
+
+    
 }
