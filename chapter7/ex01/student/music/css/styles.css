@@ -209,6 +209,13 @@ footer a {
 		width: 500px;
 		height: 450px;
 	}
+
+	/*Tablet Viewport: Style rule for grid class selector*/
+	.grid {
+		display: grid;
+		grid-template-columns: auto auto;
+		grid-gap: 20px;
+	}
 }
 
 /* Media Query for Desktop Viewport */
