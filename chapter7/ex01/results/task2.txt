@@ -4,24 +4,24 @@ Check: 1
 Test: Update the comment with your name, file name, and today's date
 Reason: Assertion failed: Name not found in comment in instructors.html (Author: Firstname Lastname)
 Error : AssertionError - Name not found in comment in instructors.html (Author: Firstname Lastname)
-Timestamp: 2026-10-25 22:28:06.702243
+Timestamp: 2026-10-25 22:29:22.775618
 
 Status: FAILED!
 Check: 2
 Test: File name added into the comment
 Reason: Assertion failed: File name not found in comment in instructors.html, (File Name: instructors.html)
 Error : AssertionError - File name not found in comment in instructors.html, (File Name: instructors.html)
-Timestamp: 2026-10-25 22:28:06.703600
+Timestamp: 2026-10-25 22:29:22.777102
 
 Status: FAILED!
 Check: 3
 Test: Update the comment with today's date
 Reason: Assertion failed: Date not found in comment in instructors.html, (Date: MM/DD/YYYY)
 Error : AssertionError - Date not found in comment in instructors.html, (Date: MM/DD/YYYY)
-Timestamp: 2026-10-25 22:28:06.704820
+Timestamp: 2026-10-25 22:29:22.778294
 
 Status: PASSED!
 Check: 4
 Test: Update the title to Instructors
 Reason: None
-Timestamp: 2026-10-25 22:28:06.706087
+Timestamp: 2026-10-25 22:29:22.779620
