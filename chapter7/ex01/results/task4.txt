@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Add the *guitar-instructor* picture and use  **guitar instructor**  for the `alt` text.
 Reason: None
-Timestamp: 2026-10-25 23:39:26.749737
+Timestamp: 2026-10-25 23:40:21.568439
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add Figcaption with text 'Jack Williams, Guitar'
-Reason: Assertion failed: Figcaption with text "Jack Williams, Guitar" not found in the instructors.html.
-Error : AssertionError - Figcaption with text "Jack Williams, Guitar" not found in the instructors.html.
-Timestamp: 2026-10-25 23:39:26.751100
+Reason: None
+Timestamp: 2026-10-25 23:40:21.569262
