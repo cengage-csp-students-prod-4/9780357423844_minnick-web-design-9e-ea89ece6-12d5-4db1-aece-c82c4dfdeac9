@@ -8,7 +8,7 @@ Date: 09/25/2026
 /*
 CSS Reset
 */
-aside, figure, figcaption, body, header, nav, main, footer, img, h1, h3, ul {
+body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
     margin: 0;
     padding: 0;
     border: 0;
