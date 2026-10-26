@@ -248,12 +248,12 @@ footer a {
             .grid {
         grid-template-columns: auto auto auto;
         grid-gap: 30px;
-    }
+        }
 
-    aside {
-        grid-column: 1 / span 3;
-        font-size: 2em;
-    }
+        aside {
+            grid-column: 1 / span 3;
+            font-size: 2em;
+        }
     }
 
 /* Media Query for Large Desktop Viewports */
@@ -271,5 +271,12 @@ footer a {
         background-color: #f6eee4;
     }
 
+    .grid {
+        grid-template-columns: auto auto auto auto;
+    }
 
+    aside {
+        grid-column: 1 / span 4;
+        font-size: 3em;
+    }
 }
