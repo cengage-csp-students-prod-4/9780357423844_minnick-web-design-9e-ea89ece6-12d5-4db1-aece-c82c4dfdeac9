@@ -215,6 +215,10 @@ footer a {
     .grid {
         display: grid;
         grid-template-columns: auto auto;
+        grid-gap: 10px;
+    }
+
+    aside {
         grid-column: 1 / span 2;
     }
 }
