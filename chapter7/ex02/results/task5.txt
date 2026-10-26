@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: The third figure element contains an img element with the cow image.
 Reason: None
-Timestamp: 2026-10-26 01:14:43.545812
+Timestamp: 2026-10-26 01:15:55.093800
 
 Status: PASSED!
 Check: 2
 Test: The third figure element contains a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
 Reason: None
-Timestamp: 2026-10-26 01:14:43.548451
+Timestamp: 2026-10-26 01:15:55.096455
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The fourth figure element contains an img element with the goat image.
-Reason: Assertion failed: The fourth figure element does not contain an img element with the alt text 'goat laying in the grass'.
-Error : AssertionError - The fourth figure element does not contain an img element with the alt text 'goat laying in the grass'.
-Timestamp: 2026-10-26 01:14:43.550958
+Reason: None
+Timestamp: 2026-10-26 01:15:55.099055
 
 Status: PASSED!
 Check: 4
 Test: The fourth figure element contains a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
 Reason: None
-Timestamp: 2026-10-26 01:14:43.553631
+Timestamp: 2026-10-26 01:15:55.101640
 
 Status: PASSED!
 Check: 5
 Test: The fifth figure element contains an img element with the pig image.
 Reason: None
-Timestamp: 2026-10-26 01:14:43.556146
+Timestamp: 2026-10-26 01:15:55.104131
 
 Status: PASSED!
 Check: 6
 Test: The fifth figure element contains a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
 Reason: None
-Timestamp: 2026-10-26 01:14:43.558610
+Timestamp: 2026-10-26 01:15:55.106648
