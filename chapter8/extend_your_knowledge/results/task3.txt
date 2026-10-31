@@ -3,23 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2026-10-31 04:25:58.283030
+Timestamp: 2026-10-31 04:26:56.903603
 
 Status: PASSED!
 Check: 2
 Test: Update the comment with todays date (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-10-31 04:25:58.283306
+Timestamp: 2026-10-31 04:26:56.903747
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Update the comment with the **file name**
-Reason: Unable to find 'File Name: styles.css' in the program.
-Error : str - AssertionError
-Timestamp: 2026-10-31 04:25:58.283499
+Reason: 'File Name: styles.css' was found in the program output.None
+Timestamp: 2026-10-31 04:26:56.903852
 
 Status: PASSED!
 Check: 4
 Test: Link index.html to the styles.css file
 Reason: None
-Timestamp: 2026-10-31 04:25:58.285017
+Timestamp: 2026-10-31 04:26:56.904661
