@@ -1,0 +1,46 @@
+
+Status: PASSED!
+Check: 1
+Test: The table element has been added to the file index.html
+Reason: None
+Timestamp: 2026-10-31 02:54:11.555920
+
+Status: PASSED!
+Check: 2
+Test: The caption element has been added to the file index.html
+Reason: None
+Timestamp: 2026-10-31 02:54:11.556736
+
+Status: PASSED!
+Check: 3
+Test: Row 1 has the correct values
+Reason: None
+Timestamp: 2026-10-31 02:54:11.557389
+
+Status: FAILED!
+Check: 4
+Test: Row 2 has the correct values
+Reason: Assertion failed: Row 2 should have 1 <th> element
+Error : AssertionError - Row 2 should have 1 <th> element
+Timestamp: 2026-10-31 02:54:11.558061
+
+Status: FAILED!
+Check: 5
+Test: Row 3 has the correct values
+Reason: Assertion failed: Row 3 should have 1 <th> element
+Error : AssertionError - Row 3 should have 1 <th> element
+Timestamp: 2026-10-31 02:54:11.558761
+
+Status: FAILED!
+Check: 6
+Test: Row 4 has the correct values
+Reason: Assertion failed: Row 4 should have 1 <th> element
+Error : AssertionError - Row 4 should have 1 <th> element
+Timestamp: 2026-10-31 02:54:11.559481
+
+Status: FAILED!
+Check: 7
+Test: Row 5 has the correct values
+Reason: Assertion failed: Row 5 should have 1 <th> element
+Error : AssertionError - Row 5 should have 1 <th> element
+Timestamp: 2026-10-31 02:54:11.560120
