@@ -10,7 +10,7 @@ body {
 }
 
 /*style rule for the table element*/
-tablet {
+table {
 border: 8px solid #fd4d0c;
 box-shadow: 12px 12px 10px #792101;
 }
