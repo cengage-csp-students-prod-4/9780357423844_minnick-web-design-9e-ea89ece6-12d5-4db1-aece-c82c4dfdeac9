@@ -1,0 +1,24 @@
+
+Status: PASSED!
+Check: 1
+Test: `table` collapsed border and padding set to 2%
+Reason: None
+Timestamp: 2026-10-31 03:11:42.255773
+
+Status: PASSED!
+Check: 2
+Test: `tr` collapsed border and padding set to 2%
+Reason: None
+Timestamp: 2026-10-31 03:11:42.271388
+
+Status: PASSED!
+Check: 3
+Test: `th` collapsed border and padding set to 2%
+Reason: None
+Timestamp: 2026-10-31 03:11:42.289901
+
+Status: PASSED!
+Check: 4
+Test: `td` collapsed border and padding set to 2%
+Reason: None
+Timestamp: 2026-10-31 03:11:42.308757
