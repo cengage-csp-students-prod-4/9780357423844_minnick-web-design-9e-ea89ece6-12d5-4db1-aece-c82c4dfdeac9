@@ -11,13 +11,13 @@ body {
 
 /*style rule for the table element*/
 tablet {
-border:#fd4d0c 8px solid;
-box-shadow: #792101 12px 12px 10px;
+border: 8px solid #fd4d0c;
+box-shadow: 12px 12px 10px #792101;
 }
 
 /*style rule for the td element*/
 td {
-border: #a22c02 1px solid;
+border: 1px solid #a22c02;
 }
 
 tr:nth-child(odd) {
