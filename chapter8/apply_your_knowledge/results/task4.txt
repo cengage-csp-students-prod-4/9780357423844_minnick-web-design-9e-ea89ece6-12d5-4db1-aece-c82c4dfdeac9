@@ -3,44 +3,41 @@ Status: PASSED!
 Check: 1
 Test: The table element has been added to the file index.html
 Reason: None
-Timestamp: 2026-10-31 02:54:11.555920
+Timestamp: 2026-10-31 02:56:41.991188
 
 Status: PASSED!
 Check: 2
 Test: The caption element has been added to the file index.html
 Reason: None
-Timestamp: 2026-10-31 02:54:11.556736
+Timestamp: 2026-10-31 02:56:41.992662
 
 Status: PASSED!
 Check: 3
 Test: Row 1 has the correct values
 Reason: None
-Timestamp: 2026-10-31 02:54:11.557389
+Timestamp: 2026-10-31 02:56:41.993924
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Row 2 has the correct values
-Reason: Assertion failed: Row 2 should have 1 <th> element
-Error : AssertionError - Row 2 should have 1 <th> element
-Timestamp: 2026-10-31 02:54:11.558061
+Reason: None
+Timestamp: 2026-10-31 02:56:41.995249
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Row 3 has the correct values
-Reason: Assertion failed: Row 3 should have 1 <th> element
-Error : AssertionError - Row 3 should have 1 <th> element
-Timestamp: 2026-10-31 02:54:11.558761
+Reason: None
+Timestamp: 2026-10-31 02:56:41.996499
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Row 4 has the correct values
-Reason: Assertion failed: Row 4 should have 1 <th> element
-Error : AssertionError - Row 4 should have 1 <th> element
-Timestamp: 2026-10-31 02:54:11.559481
+Reason: None
+Timestamp: 2026-10-31 02:56:41.997815
 
 Status: FAILED!
 Check: 7
 Test: Row 5 has the correct values
-Reason: Assertion failed: Row 5 should have 1 <th> element
-Error : AssertionError - Row 5 should have 1 <th> element
-Timestamp: 2026-10-31 02:54:11.560120
+Reason: Assertion failed: Row 5 second cell should have text '&#36;21,478', found $20,895
+Error : AssertionError - Row 5 second cell should have text '&#36;21,478', found $20,895
+Timestamp: 2026-10-31 02:56:41.999056
