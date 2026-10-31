@@ -34,3 +34,8 @@ table {
 	margin: 0 auto;
 	border: 3px solid #71881b;
 }
+
+table, tr, th, td {
+	border-collapse: collapse;
+	padding: 2%;
+}
