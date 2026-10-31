@@ -3,41 +3,41 @@ Status: PASSED!
 Check: 1
 Test: The table element has been added to the file index.html
 Reason: None
-Timestamp: 2026-10-31 02:56:41.991188
+Timestamp: 2026-10-31 03:07:59.870126
 
 Status: PASSED!
 Check: 2
 Test: The caption element has been added to the file index.html
 Reason: None
-Timestamp: 2026-10-31 02:56:41.992662
+Timestamp: 2026-10-31 03:07:59.871636
 
 Status: PASSED!
 Check: 3
 Test: Row 1 has the correct values
 Reason: None
-Timestamp: 2026-10-31 02:56:41.993924
+Timestamp: 2026-10-31 03:07:59.873011
 
 Status: PASSED!
 Check: 4
 Test: Row 2 has the correct values
 Reason: None
-Timestamp: 2026-10-31 02:56:41.995249
+Timestamp: 2026-10-31 03:07:59.874407
 
 Status: PASSED!
 Check: 5
 Test: Row 3 has the correct values
 Reason: None
-Timestamp: 2026-10-31 02:56:41.996499
+Timestamp: 2026-10-31 03:07:59.875708
 
 Status: PASSED!
 Check: 6
 Test: Row 4 has the correct values
 Reason: None
-Timestamp: 2026-10-31 02:56:41.997815
+Timestamp: 2026-10-31 03:07:59.877062
 
 Status: FAILED!
 Check: 7
 Test: Row 5 has the correct values
-Reason: Assertion failed: Row 5 second cell should have text '&#36;21,478', found $20,895
-Error : AssertionError - Row 5 second cell should have text '&#36;21,478', found $20,895
-Timestamp: 2026-10-31 02:56:41.999056
+Reason: Assertion failed: Row 5 second cell should have text '&#36;21,478', found $21,478
+Error : AssertionError - Row 5 second cell should have text '&#36;21,478', found $21,478
+Timestamp: 2026-10-31 03:07:59.878343
