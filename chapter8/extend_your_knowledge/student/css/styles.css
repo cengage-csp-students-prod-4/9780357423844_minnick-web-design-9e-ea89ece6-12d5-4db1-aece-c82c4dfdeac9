@@ -3,3 +3,31 @@
 	Date: 10/30/2026
     File Name: styles.css
 */
+
+/*Style rule for body element*/
+body {
+    background-color: #ffe5dc;
+}
+
+/*style rule for the table element*/
+tablet {
+border:#fd4d0c 8px solid;
+box-shadow: #792101 12px 12px 10px;
+}
+
+/*style rule for the td element*/
+td {
+border: #a22c02 1px solid;
+}
+
+tr:nth-child(odd) {
+background-color: #fe9772;
+}
+
+table {
+    box-shadow: 12px 12px 10px #792101;
+}
+
+body {
+    font-family: sans-serif;
+}
