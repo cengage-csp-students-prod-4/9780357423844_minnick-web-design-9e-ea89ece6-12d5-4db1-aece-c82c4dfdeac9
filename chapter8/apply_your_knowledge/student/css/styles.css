@@ -39,3 +39,10 @@ table, tr, th, td {
 	border-collapse: collapse;
 	padding: 2%;
 }
+
+/*Style rules for caption element*/
+caption {
+	font-size: 2em;
+	padding: 2%;
+	margin-top: 2%;
+}
