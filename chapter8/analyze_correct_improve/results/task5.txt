@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: The form contains a submit button with a class attribute value of 'btn'
-Reason: None
-Timestamp: 2026-11-01 06:28:35.382621
+Reason: Assertion failed: No button element found in the form element
+Error : AssertionError - No button element found in the form element
+Timestamp: 2026-11-01 06:29:59.703819
