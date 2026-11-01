@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Nest two `fieldset` elements within the `form` element
-Reason: Assertion failed: The form element does not contain two fieldset elements
-Error : AssertionError - The form element does not contain two fieldset elements
-Timestamp: 2026-11-01 09:14:48.779190
+Reason: None
+Timestamp: 2026-11-01 09:15:52.324168
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Include a `legend` for each `fieldset`. Use the text **Contact Information** for the first `fieldset legend`, and use the text  **Additional Information** for the second `fieldset legend`
-Reason: Assertion failed: The form element does not contain two fieldset elements
-Error : AssertionError - The form element does not contain two fieldset elements
-Timestamp: 2026-11-01 09:14:48.781146
+Reason: None
+Timestamp: 2026-11-01 09:15:52.326013
