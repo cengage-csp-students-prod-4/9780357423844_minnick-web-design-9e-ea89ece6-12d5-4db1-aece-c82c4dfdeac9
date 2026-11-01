@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: partnership.html exists
 Reason: None
-Timestamp: 2026-11-01 08:23:21.410661
+Timestamp: 2026-11-01 08:29:20.655918
 
 Status: PASSED!
 Check: 2
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2026-11-01 08:23:21.410937
+Timestamp: 2026-11-01 08:29:20.656214
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Update the comment with the **file name**
-Reason: Unable to find 'File Name: partnership.html' in the program.
-Error : str - AssertionError
-Timestamp: 2026-11-01 08:23:21.411161
+Reason: 'File Name: partnership.html' was found in the program output.None
+Timestamp: 2026-11-01 08:29:20.656476
