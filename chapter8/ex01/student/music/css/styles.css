@@ -193,7 +193,7 @@ fieldset, input {
 	margin-bottom: 2%;
 }
 
-legend {
+fieldset legend {
 	font-weight: bold;
 	font-size: 1.25em;
 }
