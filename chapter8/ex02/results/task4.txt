@@ -3,58 +3,53 @@ Status: PASSED!
 Check: 1
 Test: Nest a `table` within the `partner` `div` element with the caption text "Sponsorship Opportunities" inside the table
 Reason: None
-Timestamp: 2026-11-01 08:47:35.352542
+Timestamp: 2026-11-01 08:56:59.053697
 
 Status: PASSED!
 Check: 2
 Test: Insert seven rows within the table
 Reason: None
-Timestamp: 2026-11-01 08:47:35.355301
+Timestamp: 2026-11-01 08:56:59.056452
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Row 1 Contains the correct data
-Reason: None
-Timestamp: 2026-11-01 08:47:35.357962
+Reason: Assertion failed: The first row does not contain four columns (<th>'s within the <tr>)
+Error : AssertionError - The first row does not contain four columns (<th>'s within the <tr>)
+Timestamp: 2026-11-01 08:56:59.059084
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Row 2 Contains the correct data
-Reason: Assertion failed: The second row does not contain four columns (<td>'s within the <tr>)
-Error : AssertionError - The second row does not contain four columns (<td>'s within the <tr>)
-Timestamp: 2026-11-01 08:47:35.360572
+Reason: None
+Timestamp: 2026-11-01 08:56:59.061939
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Row 3 Contains the correct data
-Reason: Assertion failed: The third row does not contain four columns (<td>'s within the <tr>)
-Error : AssertionError - The third row does not contain four columns (<td>'s within the <tr>)
-Timestamp: 2026-11-01 08:47:35.363347
+Reason: None
+Timestamp: 2026-11-01 08:56:59.064675
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Row 4 Contains the correct data
-Reason: Assertion failed: The fourth row does not contain four columns (<td>'s within the <tr>)
-Error : AssertionError - The fourth row does not contain four columns (<td>'s within the <tr>)
-Timestamp: 2026-11-01 08:47:35.366037
+Reason: None
+Timestamp: 2026-11-01 08:56:59.067318
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: Row 5 Contains the correct data
-Reason: Assertion failed: The fifth row does not contain four columns (<td>'s within the <tr>)
-Error : AssertionError - The fifth row does not contain four columns (<td>'s within the <tr>)
-Timestamp: 2026-11-01 08:47:35.368821
+Reason: None
+Timestamp: 2026-11-01 08:56:59.070032
 
-Status: FAILED!
+Status: PASSED!
 Check: 8
 Test: Row 6 Contains the correct data
-Reason: Assertion failed: The sixth row does not contain four columns (<td>'s within the <tr>)
-Error : AssertionError - The sixth row does not contain four columns (<td>'s within the <tr>)
-Timestamp: 2026-11-01 08:47:35.371609
+Reason: None
+Timestamp: 2026-11-01 08:56:59.072810
 
-Status: FAILED!
+Status: PASSED!
 Check: 9
 Test: Row 7 Contains the correct data
-Reason: Assertion failed: The seventh row does not contain four columns (<td>'s within the <tr>)
-Error : AssertionError - The seventh row does not contain four columns (<td>'s within the <tr>)
-Timestamp: 2026-11-01 08:47:35.374351
+Reason: None
+Timestamp: 2026-11-01 08:56:59.075555
