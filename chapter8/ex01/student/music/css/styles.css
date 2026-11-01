@@ -189,7 +189,11 @@ tr:nth-child(odd) {
 }
 
 /* Style rules for form elements */
-fieldset, input {
+fieldset {
+	margin-bottom: 2%;
+}
+
+input {
 	margin-bottom: 2%;
 }
 
