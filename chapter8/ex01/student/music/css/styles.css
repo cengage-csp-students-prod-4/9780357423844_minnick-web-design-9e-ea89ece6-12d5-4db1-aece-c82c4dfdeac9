@@ -188,6 +188,24 @@ tr:nth-child(odd) {
     background-color: #b7b7e1;
 }
 
+/* Style rules for form elements */
+fieldset, input {
+	margin-bottom: 2%;
+}
+
+label {
+	display: block;
+	padding-top: 3%;
+}
+
+form #submit {
+	margin: 0 auto;
+	display: block;
+	padding: 3%;
+	background-color: #b7b7e1;
+	font-size: 1em;
+}
+
 /* Style rules for footer content */
 footer {
     text-align: center;
