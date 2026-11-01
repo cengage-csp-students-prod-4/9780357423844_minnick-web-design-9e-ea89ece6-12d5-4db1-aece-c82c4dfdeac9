@@ -300,4 +300,9 @@ footer a {
 	.grid {
 		grid-template-columns: auto auto auto auto;
 	}
+
+	/*Desktop Viewport: Style rules for table element*/
+	table {
+		width: 70%;
+	}
 }
