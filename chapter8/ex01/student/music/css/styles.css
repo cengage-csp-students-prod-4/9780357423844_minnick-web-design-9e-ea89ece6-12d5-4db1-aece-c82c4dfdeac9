@@ -130,7 +130,7 @@ main p {
 }
 
 /* Style rules for contact content */
-#contact, #rental, #form {
+#contact, #rental h2, #form h2 {
     text-align: center;
 }
 
