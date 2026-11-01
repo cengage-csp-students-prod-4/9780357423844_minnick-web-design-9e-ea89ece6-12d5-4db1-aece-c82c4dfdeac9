@@ -3,52 +3,52 @@ Status: PASSED!
 Check: 1
 Test: Nest a `table` within the `partner` `div` element with the caption text "Sponsorship Opportunities" inside the table
 Reason: None
-Timestamp: 2026-11-01 09:19:34.760364
+Timestamp: 2026-11-01 09:28:00.173009
 
 Status: PASSED!
 Check: 2
 Test: Insert seven rows within the table
 Reason: None
-Timestamp: 2026-11-01 09:19:34.763159
+Timestamp: 2026-11-01 09:28:00.175775
 
 Status: PASSED!
 Check: 3
 Test: Row 1 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.765873
+Timestamp: 2026-11-01 09:28:00.178510
 
 Status: PASSED!
 Check: 4
 Test: Row 2 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.768574
+Timestamp: 2026-11-01 09:28:00.181166
 
 Status: PASSED!
 Check: 5
 Test: Row 3 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.771224
+Timestamp: 2026-11-01 09:28:00.183838
 
 Status: PASSED!
 Check: 6
 Test: Row 4 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.773897
+Timestamp: 2026-11-01 09:28:00.186489
 
 Status: PASSED!
 Check: 7
 Test: Row 5 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.776633
+Timestamp: 2026-11-01 09:28:00.189223
 
 Status: PASSED!
 Check: 8
 Test: Row 6 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.779365
+Timestamp: 2026-11-01 09:28:00.191967
 
 Status: PASSED!
 Check: 9
 Test: Row 7 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 09:19:34.782110
+Timestamp: 2026-11-01 09:28:00.194713
