@@ -130,18 +130,8 @@ main p {
 }
 
 /* Style rules for contact content */
-#contact {
+#contact, #rental, #form {
     text-align: center;
-}
-
-/* Style rules for rental content */
-#rental {
-
-}
-
-/* Style rules for form content */
-#form {
-	
 }
 
 .tel-link {
