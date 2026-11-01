@@ -328,4 +328,15 @@ footer a {
 	table {
 		width: 70%;
 	}
+
+	/*Desktop Viewport: Style rules for form elements*/
+	.form-grid {
+		display: grid;
+		grid-template-columns: auto auto;
+		grid-gap: 20px;
+	}
+
+	.btn {
+		grid-column: 1 / span 2;
+	}
 }
