@@ -189,26 +189,28 @@ tr:nth-child(odd) {
 }
 
 /* Style rules for form elements */
-fieldset, input {
-	margin-bottom: 2%;
-}
+@media only screen and (max-width: 380px) {
+	fieldset, input {
+		margin-bottom: 2%;
+	}
 
-legend {
-	font-weight: bold;
-	font-size: 1.25em;
-}
+	legend {
+		font-weight: bold;
+		font-size: 1.25em;
+	}
 
-label {
-	display: block;
-	padding-top: 3%;
-}
+	label {
+		display: block;
+		padding-top: 3%;
+	}
 
-form #submit {
-	margin: 0 auto;
-	display: block;
-	padding: 3%;
-	background-color: #b7b7e1;
-	font-size: 1em;
+	form #submit {
+		margin: 0 auto;
+		display: block;
+		padding: 3%;
+		background-color: #b7b7e1;
+		font-size: 1em;
+	}
 }
 
 /* Style rules for footer content */
