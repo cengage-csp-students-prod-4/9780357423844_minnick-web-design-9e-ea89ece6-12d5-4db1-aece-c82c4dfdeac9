@@ -3,53 +3,52 @@ Status: PASSED!
 Check: 1
 Test: Nest a `table` within the `partner` `div` element with the caption text "Sponsorship Opportunities" inside the table
 Reason: None
-Timestamp: 2026-11-01 08:56:59.053697
+Timestamp: 2026-11-01 08:58:18.662109
 
 Status: PASSED!
 Check: 2
 Test: Insert seven rows within the table
 Reason: None
-Timestamp: 2026-11-01 08:56:59.056452
+Timestamp: 2026-11-01 08:58:18.663895
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Row 1 Contains the correct data
-Reason: Assertion failed: The first row does not contain four columns (<th>'s within the <tr>)
-Error : AssertionError - The first row does not contain four columns (<th>'s within the <tr>)
-Timestamp: 2026-11-01 08:56:59.059084
+Reason: None
+Timestamp: 2026-11-01 08:58:18.665598
 
 Status: PASSED!
 Check: 4
 Test: Row 2 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 08:56:59.061939
+Timestamp: 2026-11-01 08:58:18.667285
 
 Status: PASSED!
 Check: 5
 Test: Row 3 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 08:56:59.064675
+Timestamp: 2026-11-01 08:58:18.668969
 
 Status: PASSED!
 Check: 6
 Test: Row 4 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 08:56:59.067318
+Timestamp: 2026-11-01 08:58:18.670620
 
 Status: PASSED!
 Check: 7
 Test: Row 5 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 08:56:59.070032
+Timestamp: 2026-11-01 08:58:18.672338
 
 Status: PASSED!
 Check: 8
 Test: Row 6 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 08:56:59.072810
+Timestamp: 2026-11-01 08:58:18.674051
 
 Status: PASSED!
 Check: 9
 Test: Row 7 Contains the correct data
 Reason: None
-Timestamp: 2026-11-01 08:56:59.075555
+Timestamp: 2026-11-01 08:58:18.675835
