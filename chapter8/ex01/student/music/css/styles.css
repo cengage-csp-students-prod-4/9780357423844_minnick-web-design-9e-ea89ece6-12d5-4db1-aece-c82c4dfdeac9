@@ -193,6 +193,11 @@ fieldset, input {
 	margin-bottom: 2%;
 }
 
+fieldset legend {
+	font-weight: bold;
+	font-size: 1.25em;
+}
+
 label {
 	display: block;
 	padding-top: 3%;
