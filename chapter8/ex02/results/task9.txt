@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Insert a submit button below the second fieldset with the attributes type="submit", id="submit", value="Submit", and class="btn"
+Reason: Assertion failed: The form element does not contain two fieldset elements
+Error : AssertionError - The form element does not contain two fieldset elements
+Timestamp: 2026-11-01 09:14:49.906271
