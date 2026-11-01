@@ -260,6 +260,12 @@ footer a {
 		height: 450px;
 	}
 
+	/*Tablet Viewport: Style rule for form element*/
+	form {
+		width: 70%;
+		margin: 0px auto;
+	}
+
 	/*Tablet Viewport: Style rule for grid class selector*/
 	.grid {
 		display: grid;
