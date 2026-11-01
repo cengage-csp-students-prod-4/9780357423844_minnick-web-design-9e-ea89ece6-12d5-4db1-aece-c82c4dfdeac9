@@ -4,60 +4,60 @@ Check: 1
 Test: div element has class attribute mobile-tablet
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.213185
+Timestamp: 2026-11-01 08:28:00.385113
 
 Status: FAILED!
 Check: 2
 Test: h3 element with text Sponsorship Levels
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.215077
+Timestamp: 2026-11-01 08:28:00.386051
 
 Status: FAILED!
 Check: 3
 Test: paragraph elements with text Green: $200
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.216542
+Timestamp: 2026-11-01 08:28:00.386945
 
 Status: FAILED!
 Check: 4
 Test: Paragraph element with the text **Blue: $400**.
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.218086
+Timestamp: 2026-11-01 08:28:00.387742
 
 Status: FAILED!
 Check: 5
 Test: Paragraph element with the text **Red: $600**.
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.219523
+Timestamp: 2026-11-01 08:28:00.388588
 
 Status: FAILED!
 Check: 6
 Test: Paragraph element with the text **Purple: $800**.
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.221049
+Timestamp: 2026-11-01 08:28:00.389377
 
 Status: FAILED!
 Check: 7
 Test: Paragraph element with the text **Silver: $1,000**.
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.222454
+Timestamp: 2026-11-01 08:28:00.390219
 
 Status: FAILED!
 Check: 8
 Test: Paragraph element with the text **Gold: $1,500**.
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.223985
+Timestamp: 2026-11-01 08:28:00.390984
 
 Status: FAILED!
 Check: 9
 Test: Paragraph element with the text **Each sponsorship supports our animals and operations. Business recognition is given at every sponsorship level. Contact us today to become a sponsor.**
 Reason: Assertion failed: div element with class mobile-tablet not found
 Error : AssertionError - div element with class mobile-tablet not found
-Timestamp: 2026-11-01 08:26:37.225406
+Timestamp: 2026-11-01 08:28:00.391811
