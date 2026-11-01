@@ -134,6 +134,16 @@ main p {
     text-align: center;
 }
 
+/* Style rules for rental content */
+#rental {
+
+}
+
+/* Style rules for form content */
+#form {
+	
+}
+
 .tel-link {
     background-color: #373684;
 		padding: 2%;
