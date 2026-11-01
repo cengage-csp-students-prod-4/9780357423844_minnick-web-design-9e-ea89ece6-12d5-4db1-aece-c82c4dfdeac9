@@ -5,49 +5,49 @@ Test: create a new style rule for the `.mobile-tablet` class selector that sets 
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile-tablet"}
   (Session info: chrome=156.0.8078.47); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5627869fe7ea <unknown>
-#1 0x56278633d9e5 <unknown>
-#2 0x56278637ff5f <unknown>
-#3 0x5627863800f1 <unknown>
-#4 0x5627863bdda4 <unknown>
-#5 0x5627863bc423 <unknown>
-#6 0x5627863bbc39 <unknown>
-#7 0x562786376cd7 <unknown>
-#8 0x562786375fee <unknown>
-#9 0x562786376ac1 <unknown>
-#10 0x5627869c17ac <unknown>
-#11 0x5627869bffb5 <unknown>
-#12 0x5627869ab315 <unknown>
-#13 0x5627869c0c1a <unknown>
-#14 0x562786993bf9 <unknown>
-#15 0x5627869e8ef8 <unknown>
-#16 0x5627869e9095 <unknown>
-#17 0x5627869fd183 <unknown>
-#18 0x7f6e6b69cb84 <unknown>
-#19 0x7f6e6b729ecc <unknown>
+#0 0x55a1054137ea <unknown>
+#1 0x55a104d529e5 <unknown>
+#2 0x55a104d94f5f <unknown>
+#3 0x55a104d950f1 <unknown>
+#4 0x55a104dd2da4 <unknown>
+#5 0x55a104dd1423 <unknown>
+#6 0x55a104dd0c39 <unknown>
+#7 0x55a104d8bcd7 <unknown>
+#8 0x55a104d8afee <unknown>
+#9 0x55a104d8bac1 <unknown>
+#10 0x55a1053d67ac <unknown>
+#11 0x55a1053d4fb5 <unknown>
+#12 0x55a1053c0315 <unknown>
+#13 0x55a1053d5c1a <unknown>
+#14 0x55a1053a8bf9 <unknown>
+#15 0x55a1053fdef8 <unknown>
+#16 0x55a1053fe095 <unknown>
+#17 0x55a105412183 <unknown>
+#18 0x7fad9d29cb84 <unknown>
+#19 0x7fad9d329ecc <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile-tablet"}
   (Session info: chrome=156.0.8078.47); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5627869fe7ea <unknown>
-#1 0x56278633d9e5 <unknown>
-#2 0x56278637ff5f <unknown>
-#3 0x5627863800f1 <unknown>
-#4 0x5627863bdda4 <unknown>
-#5 0x5627863bc423 <unknown>
-#6 0x5627863bbc39 <unknown>
-#7 0x562786376cd7 <unknown>
-#8 0x562786375fee <unknown>
-#9 0x562786376ac1 <unknown>
-#10 0x5627869c17ac <unknown>
-#11 0x5627869bffb5 <unknown>
-#12 0x5627869ab315 <unknown>
-#13 0x5627869c0c1a <unknown>
-#14 0x562786993bf9 <unknown>
-#15 0x5627869e8ef8 <unknown>
-#16 0x5627869e9095 <unknown>
-#17 0x5627869fd183 <unknown>
-#18 0x7f6e6b69cb84 <unknown>
-#19 0x7f6e6b729ecc <unknown>
+#0 0x55a1054137ea <unknown>
+#1 0x55a104d529e5 <unknown>
+#2 0x55a104d94f5f <unknown>
+#3 0x55a104d950f1 <unknown>
+#4 0x55a104dd2da4 <unknown>
+#5 0x55a104dd1423 <unknown>
+#6 0x55a104dd0c39 <unknown>
+#7 0x55a104d8bcd7 <unknown>
+#8 0x55a104d8afee <unknown>
+#9 0x55a104d8bac1 <unknown>
+#10 0x55a1053d67ac <unknown>
+#11 0x55a1053d4fb5 <unknown>
+#12 0x55a1053c0315 <unknown>
+#13 0x55a1053d5c1a <unknown>
+#14 0x55a1053a8bf9 <unknown>
+#15 0x55a1053fdef8 <unknown>
+#16 0x55a1053fe095 <unknown>
+#17 0x55a105412183 <unknown>
+#18 0x7fad9d29cb84 <unknown>
+#19 0x7fad9d329ecc <unknown>
 
-Timestamp: 2026-11-01 09:14:45.727052
+Timestamp: 2026-11-01 09:19:37.606948
