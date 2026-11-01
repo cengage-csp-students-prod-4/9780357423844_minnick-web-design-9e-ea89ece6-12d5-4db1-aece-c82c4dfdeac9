@@ -188,8 +188,8 @@ tr:nth-child(odd) {
     background-color: #b7b7e1;
 }
 
-/* Style rules for form elements */
 @media screen and (max-width: 380px) {
+	/* Style rules for form elements */
 	fieldset, input {
 		margin-bottom: 2%;
 	}
