@@ -240,6 +240,10 @@ footer a {
             width: auto;
         }
 
+        .btn {
+        grid-column: 1 / span 2;
+    }
+
     }
 
 /* Media Query for Large Desktop Viewports */
