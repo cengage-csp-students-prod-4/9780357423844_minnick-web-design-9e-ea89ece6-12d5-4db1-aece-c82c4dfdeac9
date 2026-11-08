@@ -1,0 +1,19 @@
+
+Status: PASSED!
+Check: 1
+Test: Audio element added to the file index.html
+Reason: None
+Timestamp: 2026-11-08 16:27:04.437585
+
+Status: PASSED!
+Check: 2
+Test: Audio element has controls attribute
+Reason: None
+Timestamp: 2026-11-08 16:27:04.439566
+
+Status: FAILED!
+Check: 3
+Test: Two source elements added to the audio element with the correct audio files
+Reason: Assertion failed: Source element 1 is missing the type attribute or it is not set to audio/mp3
+Error : AssertionError - Source element 1 is missing the type attribute or it is not set to audio/mp3
+Timestamp: 2026-11-08 16:27:04.441460
