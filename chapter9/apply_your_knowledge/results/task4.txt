@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: Audio element added to the file index.html
+Reason: None
+Timestamp: 2026-11-08 16:32:39.063948
+
+Status: PASSED!
+Check: 2
+Test: Audio element has controls attribute
+Reason: None
+Timestamp: 2026-11-08 16:32:39.066091
+
+Status: PASSED!
+Check: 3
+Test: Two source elements added to the audio element with the correct audio files
+Reason: None
+Timestamp: 2026-11-08 16:32:39.068385
