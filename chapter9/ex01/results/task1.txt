@@ -1,0 +1,13 @@
+
+Status: PASSED!
+Check: 1
+Test: New media folder created in the music folder
+Reason: None
+Timestamp: 2026-11-09 02:52:14.300365
+
+Status: FAILED!
+Check: 2
+Test: Media files moved and unzipped into the media folder
+Reason: Assertion failed: The guitar.mp3 file or the guitar.ogg file does not exist in the media folder
+Error : AssertionError - The guitar.mp3 file or the guitar.ogg file does not exist in the media folder
+Timestamp: 2026-11-09 02:52:14.300705
