@@ -3,23 +3,22 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2026-11-14 04:28:39.183742
+Timestamp: 2026-11-14 04:29:22.167432
 
 Status: PASSED!
 Check: 2
 Test: "Filename" added to comment section of the file index.html
 Reason: 'File Name: index.html' was found in the program output.None
-Timestamp: 2026-11-14 04:28:39.184054
+Timestamp: 2026-11-14 04:29:22.167715
 
 Status: PASSED!
 Check: 3
 Test: Add **your name** to the paragraph element located within the `footer` element near the bottom of the page
 Reason: None
-Timestamp: 2026-11-14 04:28:39.185511
+Timestamp: 2026-11-14 04:29:22.169375
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add a `script` element referring to the *script.js* file above the closing `body` tag
-Reason: IndexError occurred: list index out of range
-Error : IndexError - list index out of range
-Timestamp: 2026-11-14 04:28:39.186523
+Reason: None
+Timestamp: 2026-11-14 04:29:22.170409
