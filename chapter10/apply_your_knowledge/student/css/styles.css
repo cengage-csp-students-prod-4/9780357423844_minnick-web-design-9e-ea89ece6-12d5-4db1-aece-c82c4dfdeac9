@@ -71,6 +71,10 @@ button {
     to { background-color: #660b32; }
 }
 
+.square:hover {
+	transform: translate(80px);
+}
+
 /* Style rules for the footer */
 footer {
 	font-size: .90em;
