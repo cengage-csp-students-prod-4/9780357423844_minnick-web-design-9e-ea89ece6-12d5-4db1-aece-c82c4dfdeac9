@@ -56,6 +56,17 @@ button {
     margin-left: 6%;
 }
 
+/* Animation */    
+@-webkit-keyframes color { 
+    from { background-color: #fbdae9; }
+		 to { background-color: #660b32; }
+}   
+
+@keyframes color {
+    from { background-color: #fbdae9; }
+    to { background-color: #660b32; }
+}
+
 /* Style rules for the footer */
 footer {
 	font-size: .90em;
