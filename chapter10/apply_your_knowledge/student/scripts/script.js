@@ -3,7 +3,6 @@
 	File Name: script.js
 	Current Date: 11/13/2026
 */
-
 /*Function to display content*/
 function content() {
     var text = document.getElementById("new");
