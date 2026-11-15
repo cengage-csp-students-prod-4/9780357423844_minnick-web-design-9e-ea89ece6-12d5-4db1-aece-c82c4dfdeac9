@@ -11,7 +11,7 @@ var figCap = document.querySelector("figcaption");
 
 //Function to display the first picture
 function pic1() {
-    imgSource.src = "images/trunk-bay.jpg"
+    imgSource.src = "images/trunk-bay.jpg";
     imgSource.alt = "Elevated view of Trunk Bay beach on St. John";
     figElement.style.display = "block";
     figCap.textContent = "Trunk Bay in St. John";
@@ -19,8 +19,8 @@ function pic1() {
 
 //Function to display the second picture
 function pic2() {
-    imgSource.src = "images/trunk-bay.jpg"
-    imgSource.alt = "Elevated view of Trunk Bay beach on St. John";
+    imgSource.src = "images/sanjuan.jpg";
+    imgSource.alt = "Elevated view of San Juan Coast";
     figElement.style.display = "block";
     figCap.textContent = "Trunk Bay in St. John";
 }
