@@ -3,23 +3,22 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2026-11-15 07:30:43.380768
+Timestamp: 2026-11-15 07:31:32.587765
 
 Status: PASSED!
 Check: 2
 Test: "Filename" added to comment section of the file index.html
 Reason: 'File Name: index.html' was found in the program output.None
-Timestamp: 2026-11-15 07:30:43.381043
+Timestamp: 2026-11-15 07:31:32.588042
 
 Status: PASSED!
 Check: 3
 Test: Add **your name** to the paragraph element located within the `footer` element near the bottom of the page
 Reason: None
-Timestamp: 2026-11-15 07:30:43.382695
+Timestamp: 2026-11-15 07:31:32.590318
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add a `script` element referring to the *script.js* file above the closing `body` tag
-Reason: Assertion failed: Expected to find 'scripts/script.js' in the `src` attribute of the last `script` element in the `body` element
-Error : AssertionError - Expected to find 'scripts/script.js' in the `src` attribute of the last `script` element in the `body` element
-Timestamp: 2026-11-15 07:30:43.383795
+Reason: None
+Timestamp: 2026-11-15 07:31:32.591913
