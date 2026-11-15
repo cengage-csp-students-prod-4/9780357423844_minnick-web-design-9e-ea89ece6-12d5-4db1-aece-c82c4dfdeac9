@@ -1,55 +1,19 @@
 
-Status: PASSED!
-Check: 1
-Test: Add a nav element with the class mobile-nav to index.html
-Reason: None
-Timestamp: 2026-11-15 08:39:38.294930
-
-Status: PASSED!
-Check: 2
-Test: Add a nav element with the class mobile-nav to lessons.html
-Reason: None
-Timestamp: 2026-11-15 08:39:38.298063
-
-Status: PASSED!
-Check: 3
-Test: Add a nav element with the class mobile-nav to instructors.html
-Reason: None
-Timestamp: 2026-11-15 08:39:38.300286
-
-Status: PASSED!
-Check: 4
-Test: Add a nav element with the class mobile-nav to rentals.html
-Reason: None
-Timestamp: 2026-11-15 08:39:38.302916
-
-Status: PASSED!
-Check: 5
-Test: Add a nav element with the class mobile-nav to contact.html
-Reason: None
-Timestamp: 2026-11-15 08:39:38.305990
-
-Status: PASSED!
-Check: 6
-Test: Add the correct links to the nav element in template.html
-Reason: None
-Timestamp: 2026-11-15 08:39:38.308847
-
 Status: FAILED!
 Check: 3
 Test: "Name" added to comment section of the file music/scripts/script.js
 Reason: Unable to find 'Student Name: firstname lastname' in the program.
 Error : str - AssertionError
-Timestamp: 2026-11-15 08:39:41.692210
+Timestamp: 2026-11-15 08:41:01.570266
 
 Status: PASSED!
 Check: 4
 Test: "Filename" added to comment section of the file music/scripts/script.js
 Reason: 'File Name: script.js' was found in the program output.None
-Timestamp: 2026-11-15 08:39:41.692835
+Timestamp: 2026-11-15 08:41:01.570692
 
 Status: PASSED!
 Check: 5
 Test: "Date" added to comment section of the file music/scripts/script.js
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-11-15 08:39:41.693178
+Timestamp: 2026-11-15 08:41:01.570927
