@@ -114,6 +114,10 @@ nav li a {
     background-color: #373684;
 }
 
+#menu-links {
+	display: none;
+}
+
 /* Style rules for main content */
 main {
 	padding: 2%;
