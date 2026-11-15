@@ -22,5 +22,5 @@ function pic2() {
     imgSource.src = "images/sanjuan.jpg";
     imgSource.alt = "Elevated view of San Juan Coast";
     figElement.style.display = "block";
-    figCap.textContent = "Trunk Bay in St. John";
+    figCap.textContent = "Coast of San Juan";
 }
