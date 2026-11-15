@@ -284,6 +284,10 @@ footer a {
 		padding: 0.25em 0.5em;
 	}
 
+	.mobile-nav {
+		display: none;
+	}
+
 	/* Tablet Viewport: Style rule for map */
 	.map {
 		width: 500px;
