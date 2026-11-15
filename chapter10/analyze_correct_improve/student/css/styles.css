@@ -60,6 +60,14 @@ main {
 	display: none;
 }
 
+figure {
+	text-align: center;
+}
+
+img {
+	padding: 1em;
+}
+
 footer {
 	font-size: .90em;
 	text-align: center;
