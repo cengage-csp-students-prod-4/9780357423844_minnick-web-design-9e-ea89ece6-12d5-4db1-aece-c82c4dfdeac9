@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: Add the tab-desk class to the nav element below the header element in index.html
 Reason: None
-Timestamp: 2026-11-15 08:27:29.438953
+Timestamp: 2026-11-15 08:28:29.445838
 
 Status: PASSED!
 Check: 2
 Test: Add the tab-desk class to the nav element below the header element in lessons.html
 Reason: None
-Timestamp: 2026-11-15 08:27:29.442184
+Timestamp: 2026-11-15 08:28:29.448880
 
 Status: PASSED!
 Check: 3
 Test: Add the tab-desk class to the nav element below the header element in instructors.html
 Reason: None
-Timestamp: 2026-11-15 08:27:29.445703
+Timestamp: 2026-11-15 08:28:29.450979
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the tab-desk class to the nav element below the header element in contact.html
-Reason: Assertion failed: The nav element with the class tab-desk was not found
-Error : AssertionError - The nav element with the class tab-desk was not found
-Timestamp: 2026-11-15 08:27:29.449711
+Reason: None
+Timestamp: 2026-11-15 08:28:29.454027
 
 Status: PASSED!
 Check: 5
 Test: Add the tab-desk class to the nav element below the header element in rentals.html
 Reason: None
-Timestamp: 2026-11-15 08:27:29.453233
+Timestamp: 2026-11-15 08:28:29.456723
 
 Status: PASSED!
 Check: 6
 Test: Add the tab-desk class to the nav element below the header element in template.html
 Reason: None
-Timestamp: 2026-11-15 08:27:29.457124
+Timestamp: 2026-11-15 08:28:29.459294
