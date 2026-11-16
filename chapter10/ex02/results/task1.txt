@@ -3,35 +3,53 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
 Reason: None
-Timestamp: 2026-11-16 05:59:47.656810
+Timestamp: 2026-11-16 07:14:41.026775
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
 Reason: None
-Timestamp: 2026-11-16 05:59:47.659843
+Timestamp: 2026-11-16 07:14:41.031937
 
 Status: FAILED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
 Reason: Assertion failed: Could not find the nav element with class mobile-nav in contact.html
 Error : AssertionError - Could not find the nav element with class mobile-nav in contact.html
-Timestamp: 2026-11-16 05:59:47.662091
+Timestamp: 2026-11-16 07:14:41.035998
 
 Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
 Reason: None
-Timestamp: 2026-11-16 05:59:47.665776
+Timestamp: 2026-11-16 07:14:41.042058
 
 Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
 Reason: None
-Timestamp: 2026-11-16 05:59:47.669772
+Timestamp: 2026-11-16 07:14:41.048745
 
 Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
 Reason: None
-Timestamp: 2026-11-16 05:59:47.671835
+Timestamp: 2026-11-16 07:14:41.051963
+
+Status: PASSED!
+Check: 2
+Test: "Name" added to comment section of the file music/scripts/script.js
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-11-16 07:14:44.334805
+
+Status: PASSED!
+Check: 3
+Test: "Filename" added to comment section of the file music/scripts/script.js
+Reason: 'File Name: script.js' was found in the program output.None
+Timestamp: 2026-11-16 07:14:44.335062
+
+Status: PASSED!
+Check: 4
+Test: "Date" added to comment section of the file music/scripts/script.js
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-11-16 07:14:44.335329
