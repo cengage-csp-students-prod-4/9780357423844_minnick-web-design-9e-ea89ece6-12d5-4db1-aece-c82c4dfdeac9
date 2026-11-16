@@ -40,13 +40,11 @@ img {
 }
 
 
-.tab-desk {
-    display: none;
-}
-
 .tab-desk, .desktop, #nav-links {
     display: none;
 }
+
+
 
 
 /*Style rules for header area*/
