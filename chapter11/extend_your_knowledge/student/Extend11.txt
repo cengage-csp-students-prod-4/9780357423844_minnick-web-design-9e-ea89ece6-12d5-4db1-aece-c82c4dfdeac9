@@ -1,0 +1,48 @@
+Design Guidelines:
+1. Create helpful, user-friendly content
+Write accurate, informative content designed to help visitors rather than manipulate search engine rankings.
+
+2. Use clear site hierarchy and accessible links
+Organize pages in a logical order with clear navigation so both users and search engine bots can easily discover and move through your site.
+
+3. Provide descriptive text titles
+Use clear, relevant keywords in <title> tags, headings, link anchor text, and alt text for images.
+
+4. Ensure mobile-friendly accessibility
+Design pages using responsive web design so they load quickly and display properly across all screen sizes, devices, and browsers.
+
+
+Technical Guidelines:
+1. Allow search engine bots to crawl page assets
+Ensure CSS JavaScript, and image files that affect how a page renders are not blocked in your robots.txt file so crawlers see the page just as a user does.
+
+2. Verify HTTP status and crawlability
+Make sure important pages return an HTTP 200(OK) status code, avoid broken links, and keep indexable content visible in the main HTML rather than hidden behind restrictive scripts or logins
+
+3. Submit XML sitemaps and use structured data
+Provide an  XML map to help search engines discover URLs efficiently, and use schema markup (structured data) to clarify page content.
+
+
+Practices to Avoid:
+1. Cloaking
+Showing different content or URLs to search engine crawlers than what is displayed to human visitors
+
+2. Keyword stuffing
+Unnaturally repeating words or phrases in text, meta tags, or lists, in an attempt to manipulate search rankings
+
+3. Hidden text and links
+Placing text or links on a page solely for search engines (using white text on a white background, positioning text off-screen, etc.)
+
+4. Link spam (link scheme)
+Buying, selling, o excessively exchanging links solely to manipulate search engine ranking signals
+
+5. Doorway pages and scraped content
+Creating low-value pages built only to funnel traffic to another destination, or copying content from other websites without adding original value
+
+
+Bing website guidelines that coincide with Google
+1. Prioritize clear, accurate, user-friendly content
+
+2. Make URLs easy to discover and crawl
+
+3. Avoid deceptive and manipulative tactics
