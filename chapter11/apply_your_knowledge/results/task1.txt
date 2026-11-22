@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 3
+Test: Add all necessary Doctype, html, head, link, and body tags to the index.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'index.html'
+Timestamp: 2026-11-22 05:28:01.281165
