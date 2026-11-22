@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: In the new `social` `div`, add an image element and use the **facebook-logo.png**   file as the  `src` attribute.
 Reason: None
-Timestamp: 2026-11-22 09:17:39.910099
+Timestamp: 2026-11-22 09:18:07.577036
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: In the new `social` `div`, add an image element and use the **Facebook logo** for the `alt` attribute.
-Reason: Assertion failed: No image element found in social div with the alt attribute value of Facebook logo
-Error : AssertionError - No image element found in social div with the alt attribute value of Facebook logo
-Timestamp: 2026-11-22 09:17:39.912960
+Reason: None
+Timestamp: 2026-11-22 09:18:07.583572
 
 Status: PASSED!
 Check: 3
 Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
 Reason: None
-Timestamp: 2026-11-22 09:17:39.915754
+Timestamp: 2026-11-22 09:18:07.588489
