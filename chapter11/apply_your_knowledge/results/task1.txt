@@ -1,7 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
+Check: 1
+Test: "Name" added to comment section of the file index.html
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-11-22 05:29:11.897472
+
+Status: PASSED!
+Check: 2
+Test: "Date" added to comment section of the file index.html
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-11-22 05:29:11.897802
+
+Status: PASSED!
 Check: 3
 Test: Add all necessary Doctype, html, head, link, and body tags to the index.html file
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'index.html'
-Timestamp: 2026-11-22 05:28:01.281165
+Reason: None
+Timestamp: 2026-11-22 05:29:11.898711
