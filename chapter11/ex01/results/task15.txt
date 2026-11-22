@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Below the Facebook logo, add another image element and use the **twitter-logo.png** file as the `src` attribute.
 Reason: None
-Timestamp: 2026-11-22 08:56:56.442635
+Timestamp: 2026-11-22 08:57:18.095593
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Below the Facebook logo, add another image element and use the **Twitter logo** for the `alt` attribute.
-Reason: Assertion failed: Second image element in social div contains alt attribute value of Twitter Logo instead of Twitter logo
-Error : AssertionError - Second image element in social div contains alt attribute value of Twitter Logo instead of Twitter logo
-Timestamp: 2026-11-22 08:56:56.445057
+Reason: None
+Timestamp: 2026-11-22 08:57:18.098084
 
 Status: PASSED!
 Check: 3
 Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
 Reason: None
-Timestamp: 2026-11-22 08:56:56.447405
+Timestamp: 2026-11-22 08:57:18.100329
